@@ -46,7 +46,7 @@ After restart phone you should see "Kinguser" (SuperUser, SuperSU) app
 =====================
 - Format microSD card in PC and copy H3Crom.zip and Gapps.zip to card
 - Put card to Phone
-- Turn on phone by pressing: combo "vol+" + "ON" (recovery mode)
+- Turn on phone by pressing: combo "vol+" + "Power ON" (recovery mode)
 - Now choose option Backup (option 5)
 - After backup wipe data/factory reset (option 3)
 - After factory reset choose Install from SD (option 2)

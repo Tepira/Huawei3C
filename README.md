@@ -46,15 +46,15 @@ After restart phone you should see "Kinguser" (SuperUser, SuperSU) app
 5. Install Custom rom
 =====================
 - Format microSD card in PC and copy H3Crom.zip and Gapps.zip to card
-- Put card to Phone
-- Turn on phone by pressing: combo "vol+" + "Power ON" (recovery mode)
-- Now choose option Backup (option 5)
-- After backup wipe data/factory reset (option 3)
-- After factory reset choose Install from SD (option 2)
+- Put card to the Phone
+- Turn on the phone by pressing: combo "vol+" + "Power ON" (recovery mode)
+- Now choose option ``"backup and restore"`` (option 5 in main menu)
+- After backup ``"wipe data/factory reset"`` ("option 3" in main menu)
+- After factory reset choose ``"install zip from sdcard"`` (option 2 in main menu)
 - Now choose H3Crom.zip
-- After success instalation H3Crom.zip choose install Gapps.zip
-- Wipe cache (option 4)
-- Wipe Dalvik cache (option 7)
-- Now restart (option 1)
+- After successfull instalation H3Crom.zip choose Gapps.zip and install again
+- ``"wipe cache partition"`` (option 4 in main menu)
+- Now ``"Wipe Dalvik cache"`` in ``"advanced"`` (option 7 in main menu)
+- ``"reboot system now"`` (option 1 in main menu)
 
 Congrats you installed new custom rom 

@@ -14,10 +14,10 @@ We are not responsible for any damage
 Download necessery files from git.
 
 - download zip of all this repository or:
-  ```shell
+```
   git clone https://github.com/Tepira/Huawei3C
- ```
-- download rom H3Crom.zip and Gapps.zip from here <a href="http://download.tepira.com/"> download.tepira.com </a>
+```
+- download rom H3Crom.zip and Gapps.zip from here <a href="http://download.tepira.com/"> http://download.tepira.com </a>
 
 
 2. Preinstall

@@ -11,7 +11,7 @@ We are not responsible for any damage
 
 1. Download
 ===========
-Download necessery files from git.
+Download necessary files from git.
 
 - download zip of all this repository or:
 ```
